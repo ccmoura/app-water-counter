@@ -5,7 +5,7 @@
 
 ### 🏠 [Homepage](React-native app that counts the amount of water needed and ingested per day.)
 <p>
-  <img alt="Version" src="./images/screen.JPG" />
+  <img alt="Version" src="./images/screen.png" />
 </p>
 
 ## Install
